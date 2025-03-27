@@ -55,13 +55,13 @@ Python, SQL, R, Excel
 - Developed a predictive model using 129,880 observations to determine passenger satisfaction levels.  
 - Conducted data cleaning, feature engineering, and implemented classification models such as Naïve Bayes and Random Forest.  
 - Addressed class imbalance using SMOTE and identified key factors influencing satisfaction, including boarding efficiency and inflight WiFi quality.  
-- [Project Link](https://medium.com/@sophiap8/airline-service-modeling-and-analysis-a-comprehensicve-report-on-factors-driving-customer-b19390f4d272)
+[Project Link](https://medium.com/@sophiap8/airline-service-modeling-and-analysis-a-comprehensicve-report-on-factors-driving-customer-b19390f4d272)
 
 ### Classifying Movie Rating Performance: Analyzing Factors Impacting IMDb Ratings  
 - Built a classification model to predict IMDb movie ratings using data from 5,043 movies.  
 - Cleaned data, implemented decision tree models, and optimized hyperparameters using GridSearchCV.  
 - Applied SMOTE to improve classification accuracy and identified factors affecting ratings, such as user votes and production budgets.  
-- [Project Link](https://medium.com/p/c475512dab86/edit)
+[Project Link](https://medium.com/p/c475512dab86/edit)
 
 ## Certifications  
 - SQL for Data Analysis – Coursera   
